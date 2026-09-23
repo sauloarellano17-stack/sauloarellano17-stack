@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://sprint72h.vercel.app">
-    <img src="assets/banner.svg" width="100%" alt="Saulo Arellano · 6D Transformación Digital · Página que vende + WhatsApp que responde, califica y agenda. En 72 horas.">
+    <img src="assets/banner.svg" width="100%" alt="Saulo Arellano · 6D Matic · Página que vende + WhatsApp que responde, califica y agenda. En 72 horas.">
   </a>
 </p>
 
 ### Tu negocio no tiene un problema de clientes. Tiene un problema de a dónde mandarlos.
 
-Soy **Saulo Arellano**, fundador de **6D · Transformación Digital**. Construyo para negocios locales el sistema que atrapa la demanda que ya tienen: una página escrita para vender y un WhatsApp que responde, califica y agenda solo. **En 72 horas**, sin juntas eternas y sin mensualidades.
+Soy **Saulo Arellano**, fundador de **6D Matic**. Construyo para negocios locales el sistema que atrapa la demanda que ya tienen: una página escrita para vender y un WhatsApp que responde, califica y agenda solo. **En 72 horas**, sin juntas eternas y sin mensualidades.
 
 > Responder a un prospecto en los primeros 5 minutos da **21× más probabilidad** de convertirlo que responder a los 30 minutos. — *Harvard Business Review*
 >
@@ -51,4 +51,4 @@ Soy **Saulo Arellano**, fundador de **6D · Transformación Digital**. Construyo
   <a href="https://wa.me/5219933257528?text=Hola%20Saulo%2C%20vi%20tu%20GitHub%20y%20quiero%20saber%20del%20Sprint%2072h"><img src="https://img.shields.io/badge/WhatsApp-Te_contesto_en_menos_de_15_min-482682?style=for-the-badge&logo=whatsapp&logoColor=FFD66F" alt="Escríbeme por WhatsApp"></a>
 </p>
 
-<sub>6D · Transformación Digital</sub>
+<sub>6D Matic · Marketing digital y automatización</sub>

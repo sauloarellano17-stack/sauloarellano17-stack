@@ -158,7 +158,7 @@ def banner():
     partes = []
     # Eyebrow
     partes.append(f'<rect x="{X}" y="74" width="28" height="2" fill="url(#oro)"/>')
-    partes.append(texto(mono, "6D · TRANSFORMACIÓN DIGITAL", X + 40, 81, 15, "#E0A54A", tracking=0.14))
+    partes.append(texto(mono, "6D MATIC · MARKETING DIGITAL Y AUTOMATIZACIÓN", X + 40, 81, 15, "#E0A54A", tracking=0.14))
     # Nombre
     partes.append(texto(mx, "SAULO ARELLANO", X - 3, 158, 70, TXT, tracking=-0.02))
     # Titular
@@ -191,7 +191,7 @@ def banner():
 
     cuerpo = "\n  " + "\n  ".join(partes)
     return documento(W, H, [mx, mb, mono, inter], cuerpo,
-                     "Saulo Arellano · 6D Transformación Digital · Página que vende + WhatsApp que responde, en 72 horas")
+                     "Saulo Arellano · 6D Matic · Página que vende + WhatsApp que responde, en 72 horas")
 
 
 # ---------- Sprint 72h ----------
