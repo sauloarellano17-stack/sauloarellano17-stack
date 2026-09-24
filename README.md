@@ -1,4 +1,4 @@
-Soy Saulo, fundador de **6D Matic**. Construyo sistemas que convierten mensajes en clientes: páginas que venden y WhatsApps que responden, califican y agendan solos.
+﻿Soy Saulo, cofundador de **6D Matic**. Construyo sistemas que convierten mensajes en clientes: páginas que venden y WhatsApps que responden, califican y agendan solos.
 
 Ahora mismo: **[Sprint 72h](https://sprint72h.vercel.app)**. Página + WhatsApp automático para negocios locales, funcionando en 72 horas.
 
